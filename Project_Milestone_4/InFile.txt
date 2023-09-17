@@ -1,0 +1,6 @@
+Type: Weapon|Name: Sword |Description: A legendary sword.|Price: 1500.50|Quantity: 50
+Type: Weapon|Name: Ranged|Description: A long-range bow.|Price: 1200.75|Quantity: 100
+Type: Armor|Name: Chest plate|Description: A heavy armor from black dragon.|Price: 2000.00|Quantity: 53
+Type: Armor|Name: Helmet|Description: Head protection.|Price: 800.00|Quantity: 75
+Type: Health|Name: Healing|Description: Restores of health.|Price: 50.00|Quantity: 50
+Type: Health|Name: Life|Description: Revives fallen health.|Price: 5000.00|Quantity: 256
